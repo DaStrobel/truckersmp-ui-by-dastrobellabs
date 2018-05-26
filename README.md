@@ -5,7 +5,7 @@ TruckersMP UI by DaStrobelLabs
 
 LICENCE
 
-- GER -
+# DEUTSCH
 
 Was du darfst:
 - Weitergebung mittels Original-link UND Namensangabe des Erstellers.
@@ -21,7 +21,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.de
 ____________________________________________________________________________
 
 
-- ENG -
+# ENGLISH
 
 
 What u can do:
