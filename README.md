@@ -1,11 +1,11 @@
 # truckersmp-ui-by-dastrobellabs
-truckersMP UI by DaStrobelLabs
+TruckersMP UI by DaStrobelLabs
 
 
 
 LICENCE
 
-- - - GER - - - 
+- GER -
 
 Was du darfst:
 - Weitergebung mittels Original-link UND Namensangabe des Erstellers.
@@ -21,7 +21,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.de
 ____________________________________________________________________________
 
 
-- - - ENG - - - 
+- ENG -
 
 
 What u can do:
