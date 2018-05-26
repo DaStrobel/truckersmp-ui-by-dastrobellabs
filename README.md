@@ -3,5 +3,5 @@ TruckersMP UI by DaStrobelLabs
 
 
 
-# LICENCE
+# LICENSE
 https://github.com/DaStrobel/truckersmp-ui-by-dastrobellabs/blob/master/licence
