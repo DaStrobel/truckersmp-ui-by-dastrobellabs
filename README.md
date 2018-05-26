@@ -1,4 +1,4 @@
-# truckersmp-ui-by-dastrobellabs
+# TruckersMp UI by DastrobelLabs
 TruckersMP UI by DaStrobelLabs
 
 
